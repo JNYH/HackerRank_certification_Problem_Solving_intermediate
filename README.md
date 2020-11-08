@@ -1,0 +1,2 @@
+# HackerRank_certification_Problem_Solving_intermediate
+Problem Solving (Intermediate) Certification solution
